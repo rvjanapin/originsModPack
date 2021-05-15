@@ -3,6 +3,7 @@
 ## REQUIRED DEPENDENCIES
 1. Fabric API
 2. Fabric Language Kotlin 
+3. Pekhui
 <hr>
 
 ## Origin (+addons)
